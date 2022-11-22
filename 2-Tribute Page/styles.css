@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: #EEEEEE;
+}
+
+#image {
+    height: auto;
+    max-width: 100%;
+}
+
+img {
+    display: block;
+}
+
+.img-div,
+img-caption {
+    background-color: #FFFFFF;
+}
+
+@media only screen and (min-width:480px) {}
+
+@media only screen and (min-width:767px) {}
+
+@media only screen and (min-width:991px) {}
+
+@media only screen and (min-width:1200px) {
+    .font {
+        padding: 0px 200px 15px 200px;
+    }
+}
+
+@media(orientation: landscape) {}
